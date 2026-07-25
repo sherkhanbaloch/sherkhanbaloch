@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sher Khan
+# Hello World, I'm Sher Khan
 
 ### Software Engineer (.NET)
 
