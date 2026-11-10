@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sher Khan Baloch 👋
 
-### Software Engineer · Full Stack .NET Developer · AI Enthusiast
+### Software Engineer · Full Stack .NET Developer · FinTech & ERP
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+scalable+.NET+applications;Turning+business+problems+into+software;Exploring+AI%2C+LLMs+%26+RAG+solutions" alt="Typing introduction" />
 
