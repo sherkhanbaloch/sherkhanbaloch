@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sherkhanbaloch.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sherkhanbaloch.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherkhanbaloch/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherbalochcs@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-343A40?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sherkhanbaloch.github.io/Portfolio/files/Sher_Khan_Software_Engineer_SZABIST_Karachi_Resume.pdf)
